@@ -1,0 +1,118 @@
+[
+    {
+        "raw_input": "今日はとても疲れたから早く寝たい",
+        "raw_response": "ゆっくり休んでね。明日も頑張ろう！",
+        "lemmatized_input": "キョウ トテモ ツカレル タ ハヤイ ネル タイ",
+        "meaningful_tokens": [
+            {
+                "surface": "今日",
+                "lemma": "キョウ",
+                "pos": "名詞"
+            },
+            {
+                "surface": "とても",
+                "lemma": "トテモ",
+                "pos": "副詞"
+            },
+            {
+                "surface": "疲れ",
+                "lemma": "ツカレル",
+                "pos": "動詞"
+            },
+            {
+                "surface": "た",
+                "lemma": "タ",
+                "pos": "助動詞"
+            },
+            {
+                "surface": "早く",
+                "lemma": "ハヤイ",
+                "pos": "形容詞"
+            },
+            {
+                "surface": "寝",
+                "lemma": "ネル",
+                "pos": "動詞"
+            },
+            {
+                "surface": "たい",
+                "lemma": "タイ",
+                "pos": "助動詞"
+            }
+        ]
+    },
+    {
+        "raw_input": "この映画は面白かったけど、少し悲しかった",
+        "raw_response": "感動的なシーンが多かったんだね",
+        "lemmatized_input": "コノ エイガ オモシロイ タ スコシ カナシイ タ",
+        "meaningful_tokens": [
+            {
+                "surface": "この",
+                "lemma": "コノ",
+                "pos": "連体詞"
+            },
+            {
+                "surface": "映画",
+                "lemma": "エイガ",
+                "pos": "名詞"
+            },
+            {
+                "surface": "面白かっ",
+                "lemma": "オモシロイ",
+                "pos": "形容詞"
+            },
+            {
+                "surface": "た",
+                "lemma": "タ",
+                "pos": "助動詞"
+            },
+            {
+                "surface": "少し",
+                "lemma": "スコシ",
+                "pos": "副詞"
+            },
+            {
+                "surface": "悲しかっ",
+                "lemma": "カナシイ",
+                "pos": "形容詞"
+            },
+            {
+                "surface": "た",
+                "lemma": "タ",
+                "pos": "助動詞"
+            }
+        ]
+    },
+    {
+        "raw_input": "新しいゲームを買ってきた",
+        "raw_response": "何を買ったの？一緒に遊ぼう",
+        "lemmatized_input": "アタラシイ ゲーム カウ クル タ",
+        "meaningful_tokens": [
+            {
+                "surface": "新しい",
+                "lemma": "アタラシイ",
+                "pos": "形容詞"
+            },
+            {
+                "surface": "ゲーム",
+                "lemma": "ゲーム",
+                "pos": "名詞"
+            },
+            {
+                "surface": "買っ",
+                "lemma": "カウ",
+                "pos": "動詞"
+            },
+            {
+                "surface": "き",
+                "lemma": "クル",
+                "pos": "動詞"
+            },
+            {
+                "surface": "た",
+                "lemma": "タ",
+                "pos": "助動詞"
+            }
+        ]
+    }
+]

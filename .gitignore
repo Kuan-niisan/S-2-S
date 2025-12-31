@@ -1,0 +1,15 @@
+# ignore txt files
+*.txt
+
+# ignore log files
+*.log
+
+# ignore pycache
+src/__pycache__/
+utils/__pycache__/
+
+# Env
+.env
+
+#vs code settings
+.vscode/
